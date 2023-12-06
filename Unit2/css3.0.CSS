@@ -1,0 +1,77 @@
+h1{
+    border: 6px solid #000;
+    background-color: #333;
+    padding: 10px;
+    width: all-line-height;
+	margin: auto;
+    text-align: center;
+    margin-top: 5px;
+    font-style: italic;
+    text-decoration: underline;
+    color: #fff;
+}
+#mail {
+	display: block;
+    text-align: right;
+    color: yellow;
+    text-decoration: underline;
+	font-size: 22px;
+}
+h2 {
+    color: #8e44ad; 
+    text-decoration: underline; 
+    font-weight: bold;
+    margin-bottom: 10px;	
+}
+#poza1 {
+    display: block;
+    margin: 0 auto;
+	width: 400;
+	height: 600;
+}
+#lista {
+    list-style-type: disc;
+	 list-style-position: inside;
+	text-align: right; 
+}
+#prima-rama {
+    border: 6px solid #8e44ad;
+    background-color: #B0E0E6;
+    padding: 10px;
+}
+h3 {
+    color: #8e44ad; 
+    text-decoration: underline; 
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 3px double orange;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: grey;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: yellow;
+}
+td {
+      background-color: grey;
+}
+#slideshow{
+  display: flex;
+  background-color: #395B64;
+  border: 10px solid #395B64;
+  overflow: hidden;
+}
+
+#rotunjire {
+  border-radius: 15px;
+  margin: 0 auto;
+}
